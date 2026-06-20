@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-20T14:44:47Z",
+  "updated": "2026-06-20T19:10:35Z",
   "source": "IOL Invertir Online",
-  "count": 41,
+  "count": 31,
   "prices": {
     "AE38C": {
       "price": 81.95,
@@ -12,21 +12,6 @@
       "price": 84.2,
       "change": 0,
       "name": "84,05"
-    },
-    "AERBD": {
-      "price": 106.7,
-      "change": 0,
-      "name": "104,00"
-    },
-    "AFCHD": {
-      "price": 103.0,
-      "change": 0,
-      "name": "102,90"
-    },
-    "AFCJD": {
-      "price": 101.5,
-      "change": 0,
-      "name": "101,20"
     },
     "AL29C": {
       "price": 64.5,
@@ -98,16 +83,6 @@
       "change": 0,
       "name": "96,90"
     },
-    "ARC1C": {
-      "price": 104.45,
-      "change": 0,
-      "name": "104,45"
-    },
-    "ARC1D": {
-      "price": 108.0,
-      "change": 0,
-      "name": "107,55"
-    },
     "BA7DC": {
       "price": 75.61,
       "change": 0,
@@ -117,21 +92,6 @@
       "price": 78.25,
       "change": 0,
       "name": "78,09"
-    },
-    "BACGD": {
-      "price": 110.15,
-      "change": 0,
-      "name": "109,55"
-    },
-    "BACHC": {
-      "price": 106.45,
-      "change": 0,
-      "name": "106,45"
-    },
-    "BACHD": {
-      "price": 109.55,
-      "change": 0,
-      "name": "109,55"
     },
     "BB7DD": {
       "price": 78.7,
@@ -147,16 +107,6 @@
       "price": 104.9,
       "change": 0,
       "name": "102,40"
-    },
-    "BF37D": {
-      "price": 102.7,
-      "change": 0,
-      "name": "102,70"
-    },
-    "BF38O": {
-      "price": 102.65,
-      "change": 0,
-      "name": "102,65"
     },
     "BPA7C": {
       "price": 98.94,
