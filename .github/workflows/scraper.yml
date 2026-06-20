@@ -1,0 +1,38 @@
+name: Scrape IOL Prices
+
+on:
+  schedule:
+    - cron: '0,30 13-23 * * 1-5'  # Every 30min Mon-Fri 10-20 Argentina
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python deps
+        run: pip install requests playwright
+
+      - name: Install Chromium
+        run: playwright install chromium
+        # Note: no --with-deps flag (pre-installed on GitHub ubuntu runner)
+
+      - name: Run scraper
+        run: python scraper.py
+        timeout-minutes: 10
+
+      - name: Commit prices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prices.json
+          git diff --staged --quiet && echo "No changes" || (git commit -m "prices $(date -u '+%Y-%m-%d %H:%M')" && git push)
