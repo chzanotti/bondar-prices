@@ -2,33 +2,29 @@ name: Scrape IOL Prices
 
 on:
   schedule:
-    - cron: '0,30 13-23 * * 1-5'  # Every 30min Mon-Fri 10-20 Argentina
+    - cron: '0,30 13-23 * * 1-5'
   workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    timeout-minutes: 20
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install Python deps
-        run: pip install requests playwright
-
-      - name: Install Chromium
-        run: playwright install chromium
-        # Note: no --with-deps flag (pre-installed on GitHub ubuntu runner)
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
 
       - name: Run scraper
         run: python scraper.py
-        timeout-minutes: 10
 
       - name: Commit prices
         run: |
