@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:59:57Z",
+  "updated": "2026-07-15T21:00:18Z",
   "source": "IOL Invertir Online",
   "count": 71,
   "prices": {
@@ -19,8 +19,8 @@
       "name": "AE38C"
     },
     "AE38D": {
-      "price": 83.55,
-      "change": 0.42,
+      "price": 83.54,
+      "change": 0.4,
       "name": "AE38D"
     },
     "AERB": {
@@ -144,8 +144,8 @@
       "name": "AL29C"
     },
     "AL29D": {
-      "price": 55.3,
-      "change": 0.0,
+      "price": 55.4,
+      "change": 0.18,
       "name": "AL29D"
     },
     "AL30": {
@@ -164,18 +164,18 @@
       "name": "AL30D"
     },
     "AL35": {
-      "price": 78.13,
-      "change": 0.34,
+      "price": 78.25,
+      "change": 0.5,
       "name": "AL35C"
     },
     "AL35C": {
-      "price": 78.13,
-      "change": 0.34,
+      "price": 78.25,
+      "change": 0.5,
       "name": "AL35C"
     },
     "AL35D": {
-      "price": 80.65,
-      "change": 0.24,
+      "price": 80.78,
+      "change": 0.41,
       "name": "AL35D"
     },
     "AL41": {
@@ -194,13 +194,13 @@
       "name": "AL41D"
     },
     "AN29": {
-      "price": 93.96,
-      "change": 0.98,
+      "price": 93.6,
+      "change": 0.6,
       "name": "AN29C"
     },
     "AN29C": {
-      "price": 93.96,
-      "change": 0.98,
+      "price": 93.6,
+      "change": 0.6,
       "name": "AN29C"
     },
     "AN29D": {
@@ -224,18 +224,18 @@
       "name": "AO27D"
     },
     "AO28": {
-      "price": 94.54,
-      "change": -0.01,
+      "price": 94.65,
+      "change": 0.1,
       "name": "AO28C"
     },
     "AO28C": {
-      "price": 94.54,
-      "change": -0.01,
+      "price": 94.65,
+      "change": 0.1,
       "name": "AO28C"
     },
     "AO28D": {
-      "price": 97.6,
-      "change": 0.11,
+      "price": 97.61,
+      "change": 0.12,
       "name": "AO28D"
     },
     "ARC1": {
@@ -499,8 +499,8 @@
       "name": "BPB7C"
     },
     "BPB7D": {
-      "price": 102.05,
-      "change": 0.04,
+      "price": 102.15,
+      "change": 0.14,
       "name": "BPB7D"
     },
     "BPB8": {
@@ -514,8 +514,8 @@
       "name": "BPB8C"
     },
     "BPB8D": {
-      "price": 92.5,
-      "change": -0.26,
+      "price": 92.66,
+      "change": -0.09,
       "name": "BPB8D"
     },
     "BPC7": {
