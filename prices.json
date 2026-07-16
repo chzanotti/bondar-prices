@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T16:08:47Z",
+  "updated": "2026-07-16T17:44:23Z",
   "source": "IOL Invertir Online",
   "count": 71,
   "prices": {
@@ -9,18 +9,18 @@
       "name": "81663"
     },
     "AE38": {
-      "price": 80.74,
-      "change": -0.01,
+      "price": 80.9,
+      "change": 0.18,
       "name": "AE38C"
     },
     "AE38C": {
-      "price": 80.74,
-      "change": -0.01,
+      "price": 80.9,
+      "change": 0.18,
       "name": "AE38C"
     },
     "AE38D": {
-      "price": 83.51,
-      "change": -0.03,
+      "price": 83.71,
+      "change": 0.2,
       "name": "AE38D"
     },
     "AERB": {
@@ -134,18 +134,18 @@
       "name": "AFCPO"
     },
     "AL29": {
-      "price": 53.5,
-      "change": 0.03,
+      "price": 53.38,
+      "change": -0.18,
       "name": "AL29C"
     },
     "AL29C": {
-      "price": 53.5,
-      "change": 0.03,
+      "price": 53.38,
+      "change": -0.18,
       "name": "AL29C"
     },
     "AL29D": {
-      "price": 55.18,
-      "change": -0.39,
+      "price": 55.24,
+      "change": -0.28,
       "name": "AL29D"
     },
     "AL30": {
@@ -159,83 +159,83 @@
       "name": "AL30C"
     },
     "AL30D": {
-      "price": 56.39,
-      "change": 0.07,
+      "price": 56.42,
+      "change": 0.12,
       "name": "AL30D"
     },
     "AL35": {
-      "price": 77.9,
-      "change": -0.44,
+      "price": 77.81,
+      "change": -0.56,
       "name": "AL35C"
     },
     "AL35C": {
-      "price": 77.9,
-      "change": -0.44,
+      "price": 77.81,
+      "change": -0.56,
       "name": "AL35C"
     },
     "AL35D": {
-      "price": 80.61,
-      "change": -0.21,
+      "price": 80.55,
+      "change": -0.28,
       "name": "AL35D"
     },
     "AL41": {
-      "price": 74.09,
-      "change": -0.25,
+      "price": 74.16,
+      "change": -0.16,
       "name": "AL41C"
     },
     "AL41C": {
-      "price": 74.09,
-      "change": -0.25,
+      "price": 74.16,
+      "change": -0.16,
       "name": "AL41C"
     },
     "AL41D": {
-      "price": 76.7,
-      "change": -0.23,
+      "price": 76.74,
+      "change": -0.18,
       "name": "AL41D"
     },
     "AN29": {
-      "price": 93.67,
-      "change": 0.38,
+      "price": 93.73,
+      "change": 0.45,
       "name": "AN29C"
     },
     "AN29C": {
-      "price": 93.67,
-      "change": 0.38,
+      "price": 93.73,
+      "change": 0.45,
       "name": "AN29C"
     },
     "AN29D": {
-      "price": 96.85,
-      "change": -0.05,
+      "price": 96.95,
+      "change": 0.05,
       "name": "AN29D"
     },
     "AO27": {
-      "price": 99.4,
-      "change": -0.2,
+      "price": 99.31,
+      "change": -0.29,
       "name": "AO27C"
     },
     "AO27C": {
-      "price": 99.4,
-      "change": -0.2,
+      "price": 99.31,
+      "change": -0.29,
       "name": "AO27C"
     },
     "AO27D": {
-      "price": 102.85,
-      "change": -0.14,
+      "price": 102.8,
+      "change": -0.19,
       "name": "AO27D"
     },
     "AO28": {
-      "price": 94.53,
-      "change": -0.12,
+      "price": 94.57,
+      "change": -0.08,
       "name": "AO28C"
     },
     "AO28C": {
-      "price": 94.53,
-      "change": -0.12,
+      "price": 94.57,
+      "change": -0.08,
       "name": "AO28C"
     },
     "AO28D": {
-      "price": 97.8,
-      "change": 0.19,
+      "price": 97.85,
+      "change": 0.24,
       "name": "AO28D"
     },
     "ARC1": {
@@ -249,23 +249,23 @@
       "name": "ARC1C"
     },
     "ARC1D": {
-      "price": 110.3,
-      "change": 0.4,
+      "price": 109.35,
+      "change": -0.45,
       "name": "ARC1D"
     },
     "BA7D": {
-      "price": 77.3,
-      "change": -0.03,
+      "price": 77.07,
+      "change": -0.33,
       "name": "BA7DC"
     },
     "BA7DC": {
-      "price": 77.3,
-      "change": -0.03,
+      "price": 77.07,
+      "change": -0.33,
       "name": "BA7DC"
     },
     "BA7DD": {
-      "price": 80.68,
-      "change": 1.14,
+      "price": 79.8,
+      "change": 0.03,
       "name": "BA7DD"
     },
     "BACA": {
@@ -279,28 +279,28 @@
       "name": "BACAD"
     },
     "BACG": {
-      "price": 107.25,
-      "change": 0.04,
+      "price": 107.0,
+      "change": -0.18,
       "name": "BACGD"
     },
     "BACGD": {
-      "price": 107.25,
-      "change": 0.04,
+      "price": 107.0,
+      "change": -0.18,
       "name": "BACGD"
     },
     "BACH": {
-      "price": 107.6,
-      "change": 0.0,
+      "price": 107.4,
+      "change": -0.18,
       "name": "BACHC"
     },
     "BACHC": {
-      "price": 107.6,
-      "change": 0.0,
+      "price": 107.4,
+      "change": -0.18,
       "name": "BACHC"
     },
     "BACHD": {
-      "price": 111.05,
-      "change": 0.04,
+      "price": 111.15,
+      "change": 0.13,
       "name": "BACHD"
     },
     "BAF27": {
@@ -309,18 +309,18 @@
       "name": "BAF27"
     },
     "BB7D": {
-      "price": 80.0,
-      "change": 0.0,
+      "price": 79.5,
+      "change": -0.62,
       "name": "BB7DC"
     },
     "BB7DC": {
-      "price": 80.0,
-      "change": 0.0,
+      "price": 79.5,
+      "change": -0.62,
       "name": "BB7DC"
     },
     "BB7DD": {
-      "price": 82.1,
-      "change": 0.37,
+      "price": 81.98,
+      "change": 0.23,
       "name": "BB7DD"
     },
     "BC33": {
@@ -369,8 +369,8 @@
       "name": "BCCKO"
     },
     "BDC28": {
-      "price": 103.45,
-      "change": 0.33,
+      "price": 103.1,
+      "change": 0.0,
       "name": "BDC28"
     },
     "BDCK": {
@@ -459,88 +459,88 @@
       "name": "BF44C"
     },
     "BPA7": {
-      "price": 98.8,
-      "change": 0.05,
+      "price": 98.77,
+      "change": 0.02,
       "name": "BPA7C"
     },
     "BPA7C": {
-      "price": 98.8,
-      "change": 0.05,
+      "price": 98.77,
+      "change": 0.02,
       "name": "BPA7C"
     },
     "BPA7D": {
-      "price": 102.25,
-      "change": 0.0,
+      "price": 102.55,
+      "change": 0.29,
       "name": "BPA7D"
     },
     "BPA8": {
-      "price": 89.8,
-      "change": -0.16,
+      "price": 89.7,
+      "change": -0.27,
       "name": "BPA8C"
     },
     "BPA8C": {
-      "price": 89.8,
-      "change": -0.16,
+      "price": 89.7,
+      "change": -0.27,
       "name": "BPA8C"
     },
     "BPA8D": {
-      "price": 92.56,
-      "change": -0.63,
+      "price": 92.65,
+      "change": -0.53,
       "name": "BPA8D"
     },
     "BPB7": {
-      "price": 98.76,
-      "change": -0.1,
+      "price": 98.88,
+      "change": 0.02,
       "name": "BPB7C"
     },
     "BPB7C": {
-      "price": 98.76,
-      "change": -0.1,
+      "price": 98.88,
+      "change": 0.02,
       "name": "BPB7C"
     },
     "BPB7D": {
-      "price": 102.15,
-      "change": 0.0,
+      "price": 102.2,
+      "change": 0.04,
       "name": "BPB7D"
     },
     "BPB8": {
-      "price": 89.35,
-      "change": -0.72,
+      "price": 89.47,
+      "change": -0.58,
       "name": "BPB8C"
     },
     "BPB8C": {
-      "price": 89.35,
-      "change": -0.72,
+      "price": 89.47,
+      "change": -0.58,
       "name": "BPB8C"
     },
     "BPB8D": {
-      "price": 92.5,
-      "change": -0.17,
+      "price": 92.45,
+      "change": -0.22,
       "name": "BPB8D"
     },
     "BPC7": {
-      "price": 98.9,
-      "change": -0.08,
+      "price": 98.95,
+      "change": -0.03,
       "name": "BPC7C"
     },
     "BPC7C": {
-      "price": 98.9,
-      "change": -0.08,
+      "price": 98.95,
+      "change": -0.03,
       "name": "BPC7C"
     },
     "BPC7D": {
-      "price": 102.3,
-      "change": -0.04,
+      "price": 102.4,
+      "change": 0.04,
       "name": "BPC7D"
     },
     "BPD7": {
-      "price": 98.83,
-      "change": -0.07,
+      "price": 98.93,
+      "change": 0.03,
       "name": "BPD7C"
     },
     "BPD7C": {
-      "price": 98.83,
-      "change": -0.07,
+      "price": 98.93,
+      "change": 0.03,
       "name": "BPD7C"
     }
   }
